@@ -1,2 +1,2 @@
-# ConsultaPID
-Automatização para consultas em massa no site do PID 
+# ConsultaCPF
+Automação para consultas automatizadas de CPF no site da Samarco. Obs.: Se trata apenas de um projeto pessoal para aprendizado. 
